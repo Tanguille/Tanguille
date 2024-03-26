@@ -1,4 +1,4 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tangenius&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tangenius&langs_count=20&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tanguille/Tanguille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
