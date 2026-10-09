@@ -1,3 +1,10 @@
+<a href="https://tanguille.site"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://tanguille.site/embed/card-dark.svg">
+  <img src="https://tanguille.site/embed/card-light.svg" width="600" alt="Tanguille Grootaert, DevOps Engineer: homelab journey and open-source work">
+</picture></a>
+
+[![Talos](https://kromgo.tanguille.site/badges/talos_version)](https://github.com/Tanguille/cluster) [![Nodes](https://kromgo.tanguille.site/badges/cluster_node_count)](https://github.com/Tanguille/cluster) [![Pods](https://kromgo.tanguille.site/badges/cluster_pod_count)](https://github.com/Tanguille/cluster)
+
 <div align="center">
   <a href="https://commit-history.com/Tanguille">
     <picture>
